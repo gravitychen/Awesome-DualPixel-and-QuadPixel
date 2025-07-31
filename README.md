@@ -4,6 +4,9 @@
   <h3 align="center">Dual Pixel</h3>
 </p>
 
+DO-DFD
+[Project page](https://www.computationalimaging.org/publications/deepopticsdfd/)
+
 ## Table of contents
 
 - [DualPixel](#dualpixel)
