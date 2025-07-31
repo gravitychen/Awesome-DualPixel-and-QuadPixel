@@ -1,11 +1,14 @@
+
+DO-DFD
+[Project page](https://www.computationalimaging.org/publications/deepopticsdfd/)
+
+
+
 <!--A curated list of resources for Image and Video Deblurring-->
 <!-- PROJECT LOGO -->
 <p align="center">
   <h3 align="center">Dual Pixel</h3>
 </p>
-
-DO-DFD
-[Project page](https://www.computationalimaging.org/publications/deepopticsdfd/)
 
 ## Table of contents
 
