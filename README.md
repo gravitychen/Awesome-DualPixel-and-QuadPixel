@@ -11,9 +11,14 @@ DO-DFD
 </p>
 
 ## Table of contents
-
+- [QuadPixel](#Quadpixel)
 - [DualPixel](#dualpixel)
 - [Dateset](#dataset)
+
+## Quad Pixel
+|Year|Pub|Paper|App|Repo|
+|:---:|:---:|:---:|:---:|:---:|
+|2018|BMVC|[Disparity Estimation Using a Quad-Pixel Sensor](http://www.ok.sc.e.titech.ac.jp/res/QP/)|Disparity |[Project page](http://www.ok.sc.e.titech.ac.jp/res/QP/) [Code](https://github.com/Zhuofeng-Wu/QPDNet) [Dataset](https://www.dropbox.com/scl/fi/0sijedbg2kdqetmw16s9t/QP-Data-Zhuofeng-Wu.zip?rlkey=m33xsb70b4ivk0riyvg4fgk2u&st=k2fn4zkq&dl=0)|
 
 ## Dual Pixel
 |Year|Pub|Paper|App|Repo|
@@ -45,6 +50,7 @@ DO-DFD
 |2024|CVPR|[LDP: Language-driven Dual-Pixel Image Defocus Deblurring Network](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_LDP_Language-driven_Dual-Pixel_Image_Defocus_Deblurring_Network_CVPR_2024_paper.html)|Deblur||
 |2024|3DV|[Continuous Cost Aggregation for Dual-Pixel Disparity Extraction](https://arxiv.org/abs/2306.07921)|Depth / Disparity|[Code](https://github.com/SagiMonin/CCA-public)|
 |2024|ECCV|[Resolving Scale Ambiguity in Multi-view 3D Reconstruction using Dual-Pixel Sensors](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06658.pdf)|Depth|[Code](https://github.com/kohei-ashida/dp-sfm)|
+|2024|SIGGRAPH|[Split-Aperture 2-in-1 Computational Cameras](https://light.princeton.edu/publication/2in1-camera/)|HDR Hyperspectral Depth|[Project page](https://github.com/kohei-ashida/dp-sfm)|
 |2025|WACV|[Revisiting Disparity from Dual-Pixel Images: Physics-Informed Lightweight Depth Estimation](https://openaccess.thecvf.com/content/WACV2025/html/Kurita_Revisiting_Disparity_from_Dual-Pixel_Images_Physics-Informed_Lightweight_Depth_Estimation_WACV_2025_paper.html)|Depth / Disparity|[Code & Dataset](https://github.com/sony/dual-pixel-disparity)|
 
 
