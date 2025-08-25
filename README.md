@@ -18,7 +18,7 @@ DO-DFD
 ## Quad Pixel
 |Year|Pub|Paper|App|Repo|
 |:---:|:---:|:---:|:---:|:---:|
-|2018|BMVC|[Disparity Estimation Using a Quad-Pixel Sensor](http://www.ok.sc.e.titech.ac.jp/res/QP/)|Disparity |[Project page](http://www.ok.sc.e.titech.ac.jp/res/QP/) [Code](https://github.com/Zhuofeng-Wu/QPDNet) [Dataset](https://www.dropbox.com/scl/fi/0sijedbg2kdqetmw16s9t/QP-Data-Zhuofeng-Wu.zip?rlkey=m33xsb70b4ivk0riyvg4fgk2u&st=k2fn4zkq&dl=0)|
+|2024|BMVC|[Disparity Estimation Using a Quad-Pixel Sensor](http://www.ok.sc.e.titech.ac.jp/res/QP/)|Disparity |[Project page](http://www.ok.sc.e.titech.ac.jp/res/QP/) [Code](https://github.com/Zhuofeng-Wu/QPDNet) [Dataset](https://www.dropbox.com/scl/fi/0sijedbg2kdqetmw16s9t/QP-Data-Zhuofeng-Wu.zip?rlkey=m33xsb70b4ivk0riyvg4fgk2u&st=k2fn4zkq&dl=0)|
 
 ## Dual Pixel
 |Year|Pub|Paper|App|Repo|
