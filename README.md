@@ -19,6 +19,7 @@ DO-DFD
 |Year|Pub|Paper|App|Repo|
 |:---:|:---:|:---:|:---:|:---:|
 |2024|BMVC|[Disparity Estimation Using a Quad-Pixel Sensor](http://www.ok.sc.e.titech.ac.jp/res/QP/)|Disparity |[Project page](http://www.ok.sc.e.titech.ac.jp/res/QP/) [Code](https://github.com/Zhuofeng-Wu/QPDNet) [Dataset](https://www.dropbox.com/scl/fi/0sijedbg2kdqetmw16s9t/QP-Data-Zhuofeng-Wu.zip?rlkey=m33xsb70b4ivk0riyvg4fgk2u&st=k2fn4zkq&dl=0)|
+|2025|CVPR|[Quad-Pixel Image Defocus Deblurring: A New Benchmark and Model](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Quad-Pixel_Image_Defocus_Deblurring_A_New_Benchmark_and_Model_CVPR_2025_paper.html)|Deblur|[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Quad-Pixel_Image_Defocus_Deblurring_A_New_Benchmark_and_Model_CVPR_2025_paper.pdf)|
 
 ## Dual Pixel
 |Year|Pub|Paper|App|Repo|
@@ -51,7 +52,11 @@ DO-DFD
 |2024|3DV|[Continuous Cost Aggregation for Dual-Pixel Disparity Extraction](https://arxiv.org/abs/2306.07921)|Depth / Disparity|[Code](https://github.com/SagiMonin/CCA-public)|
 |2024|ECCV|[Resolving Scale Ambiguity in Multi-view 3D Reconstruction using Dual-Pixel Sensors](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06658.pdf)|Depth|[Code](https://github.com/kohei-ashida/dp-sfm)|
 |2024|SIGGRAPH|[Split-Aperture 2-in-1 Computational Cameras](https://light.princeton.edu/publication/2in1-camera/)|HDR Hyperspectral Depth|[Project page](https://github.com/kohei-ashida/dp-sfm)|
+|2024|TPAMI|[Weakly-Supervised Depth Estimation and Image Deblurring via Dual-Pixel Sensors](https://ieeexplore.ieee.org/document/10680316)|Depth / Deblur|[Code](https://github.com/zwxu064/DiffImageWarpingCUDA)|
+|2024|Neurocomputing|[Learning Dual-Pixel Alignment for Defocus Deblurring](https://www.sciencedirect.com/science/article/abs/pii/S0925231224016515)|Deblur|[Code](https://github.com/liyucs/DPANet)|
 |2025|WACV|[Revisiting Disparity from Dual-Pixel Images: Physics-Informed Lightweight Depth Estimation](https://openaccess.thecvf.com/content/WACV2025/html/Kurita_Revisiting_Disparity_from_Dual-Pixel_Images_Physics-Informed_Lightweight_Depth_Estimation_WACV_2025_paper.html)|Depth / Disparity|[Code & Dataset](https://github.com/sony/dual-pixel-disparity)|
+|2025|ICCV|[Simulating Dual-Pixel Images From Ray Tracing For Depth Estimation](https://arxiv.org/abs/2503.11213)|Depth / Simulator|[Code](https://github.com/LinYark/Sdirt)|
+|2025|ICCV|[Spatially-Varying Autofocus](https://imaging.cs.cmu.edu/svaf/)|Autofocus|[Project page](https://imaging.cs.cmu.edu/svaf/) [Code](https://github.com/Image-Science-Lab-cmu/SVAF)|
 
 
 ## Dataset
