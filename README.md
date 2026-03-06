@@ -13,6 +13,7 @@ DO-DFD
 ## Table of contents
 - [QuadPixel](#Quadpixel)
 - [DualPixel](#dualpixel)
+- [Defocus PSF Model](#defocus-psf-model)
 - [Dateset](#dataset)
 
 ## Quad Pixel
@@ -58,6 +59,25 @@ DO-DFD
 |2025|ICCV|[Simulating Dual-Pixel Images From Ray Tracing For Depth Estimation](https://arxiv.org/abs/2503.11213)|Depth / Simulator|[Code](https://github.com/LinYark/Sdirt)|
 |2025|ICCV|[Spatially-Varying Autofocus](https://imaging.cs.cmu.edu/svaf/)|Autofocus|[Project page](https://imaging.cs.cmu.edu/svaf/) [Code](https://github.com/Image-Science-Lab-cmu/SVAF)|
 
+
+## Defocus PSF Model
+### Books
+|Year|Pub|Paper|App|
+|:---:|:---:|:---:|:---:|
+|1999|Cambridge UP|[Principles of Optics: Electromagnetic Theory of Propagation, Interference and Diffraction of Light](https://www.cambridge.org/core/books/principles-of-optics/D12868B8AE26B83D6D3C2193E94FFC32)|Optics / PSF / OTF / Aberrations|
+|2004|W. H. Freeman|[Introduction to Fourier Optics](https://books.google.com/books/about/Introduction_to_Fourier_Optics.html?id=ow5xs_Rtt9AC)|Fourier Optics / PSF / OTF|
+
+### Papers
+|Year|Pub|Paper|App|Repo|
+|:---:|:---:|:---:|:---:|:---:|
+|1987|IEEE TPAMI|[A New Sense for Depth of Field](https://ieeexplore.ieee.org/document/4767940)|Depth from Defocus||
+|1994|IJCV|[Depth from Defocus: A Spatial Domain Approach](https://link.springer.com/article/10.1007/BF02028349)|Depth from Defocus||
+|1994|IEEE TPAMI|[Shape from Focus](https://www.computer.org/csdl/journal/tp/1994/08/i0824/13rRUNvgz5o)|Shape from Focus / Gaussian PSF||
+|2005|IEEE TPAMI|[A Geometric Approach to Shape from Defocus](https://www.researchgate.net/publication/7986027_A_Geometric_Approach_to_Shape_from_Defocus)|Depth from Defocus / Blind Deconvolution||
+|2007|SIGGRAPH|[Image and Depth from a Conventional Camera with a Coded Aperture](https://dl.acm.org/doi/10.1145/1276377.1276464)|Coded Aperture PSF / Depth|[Project](https://groups.csail.mit.edu/graphics/CodedAperture/)|
+|2008|ECCV|[Understanding Camera Trade-Offs through a Bayesian Analysis of Light Field Projections](https://link.springer.com/chapter/10.1007/978-3-540-88693-8_7)|PSF Engineering / Light Field||
+|2011|ICCP|[Modeling and Removing Spatially-Varying Optical Blur](https://ieeexplore.ieee.org/document/5753120/)|Spatially-Varying PSF||
+|2012|ECCV|[Blind Correction of Optical Aberrations](https://link.springer.com/chapter/10.1007/978-3-642-33712-3_14)|Spatially-Varying PSF / Blind Deconvolution||
 
 ## Dataset
 ## Dataset
